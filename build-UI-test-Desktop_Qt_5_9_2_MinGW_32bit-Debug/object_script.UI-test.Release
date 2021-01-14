@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/lexical.o
+./release/lookahead.o
+./release/midcode.o
+./release/parse.o
+./release/assemble.o
+./release/mainwindow.o
+./release/work.o
+./release/moc_mainwindow.o
+./release/moc_work.o
+);

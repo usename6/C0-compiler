@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/lexical.o
+./debug/lookahead.o
+./debug/midcode.o
+./debug/parse.o
+./debug/assemble.o
+./debug/mainwindow.o
+./debug/work.o
+./debug/moc_mainwindow.o
+./debug/moc_work.o
+);
